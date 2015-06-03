@@ -6,4 +6,4 @@ commands:
   sethome:
     description: Sets home location.
   home:
-    description: Teleports player to t
+    description: Teleports player to to their home
