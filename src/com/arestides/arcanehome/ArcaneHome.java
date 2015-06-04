@@ -13,7 +13,7 @@ import org.bukkit.plugin.java.JavaPlugin;
 public class ArcaneHome extends JavaPlugin{
 	
 	Logger logger = Bukkit.getLogger();
-	
+	//this is a test
 	HashMap<String, String[]> homes = new HashMap<>();
 	
 	public void onEnable(){
